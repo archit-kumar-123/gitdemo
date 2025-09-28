@@ -1,0 +1,8 @@
+>> for 1st time need to configure github in our system 
+git config --global user.name"archit-kumar-123"
+git config --global user.email "kumararchit74@gmail.com"
+git config --global color.ui auto
+mandatory commands :
+>>git init 
+>>git remote add origin https://github.com/archit-kumar-123/gitdemo.git
+git pull origin main 
